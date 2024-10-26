@@ -10,7 +10,7 @@ The application allows several manipulations of the 3D cube, including:
    ![2](https://github.com/user-attachments/assets/54e90aef-c284-4f6f-88cc-518254b19ee2)
    ![3](https://github.com/user-attachments/assets/e3a86edf-e5de-464a-8500-024b791bb563)
    <br><br>Rotations around the x, y, and z axes:<br>
-   ![4](https://github.com/user-attachments/assets/146c1054-0892-4bc1-9922-1bc98016562b)
+   ![6](https://github.com/user-attachments/assets/f2cbdf7d-6aea-4192-a4a3-820ebab6b80d)
    ![5](https://github.com/user-attachments/assets/62cf611d-20c8-4444-a647-d7af8ccb1d52)
    ![6](https://github.com/user-attachments/assets/9c8b72f3-84bd-44c7-ba31-588c92afd288)
   * #### Camera Configuration
